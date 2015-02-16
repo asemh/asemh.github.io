@@ -36,6 +36,7 @@ h6 {
     font-weight: 700;
 }
 
+hr.star-green,
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -46,6 +47,7 @@ hr.star-primary {
     text-align: center;
 }
 
+hr.star-green:after,
 hr.star-light:after,
 hr.star-primary:after {
     content: "\f005";
@@ -57,13 +59,22 @@ hr.star-primary:after {
     font-size: 2em;
 }
 
+hr.star-green {
+    border-color: #fff;   
+}
+
+hr.star-green:after {
+    color: #fff;
+    background-color: #18bc9c;
+}
+
 hr.star-light {
     border-color: #fff;
 }
 
 hr.star-light:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #2c3e50;
 }
 
 hr.star-primary {
@@ -265,7 +276,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #18bc9c;
+    color: red;
     background: #fff;
 }
 
@@ -346,7 +357,7 @@ footer .footer-col {
     display: inline-block;
     width: 50px;
     height: 50px;
-    border: 2px solid #fff;
+    border: 3px solid #fff;
     border-radius: 100%;
     text-align: center;
     font-size: 20px;
