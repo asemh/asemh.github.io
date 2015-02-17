@@ -194,6 +194,15 @@ section.success {
     color: #fff;
     background: #2c3e50;
     text-align: center;
+    padding-bottom: 30px;
+}
+
+section.education {
+    color: #fff;
+    background: #2c3e50;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 35px;
 }
 
 @media(max-width:767px) {
