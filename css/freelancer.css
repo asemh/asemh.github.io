@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #18bc9c;
+    color: #c0392b;
 }
 
 h1,
@@ -65,7 +65,7 @@ hr.star-green {
 
 hr.star-green:after {
     color: #fff;
-    background-color: #18bc9c;
+    background-color: #c0392b;
 }
 
 hr.star-light {
@@ -93,7 +93,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #c0392b;
 }
 
 header .container {
@@ -232,7 +232,8 @@ section.education {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(24,188,156,.9);
+    background: rgba(192, 57, 43, .8);
+    /* background: rgba(24,188,156,.9); */ 
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -339,7 +340,7 @@ section.education {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #18bc9c;
+    color: #c0392b;
 }
 
 form .row:first-child .floating-label-form-group {
