@@ -24,7 +24,7 @@ hr, .projectInfo h4, .projectNav, .projectInfo, .linedList, .projectInfo li, .pr
 .projectThumbnailHover h5 { color: #ffffff; }
 .projectInfo h4 { color: #2c3e50; }
 .projectNav { color: #2c3e50; }
-.projectNavClose button, .projectNavButtons button, .projectNavEnlarge button, .projectNavCounter, #formSubmit, #formField { color: #2c3e50; }
+.projectNavClose button, .projectNavButtons button, .projectNavEnlarge button, .projectNavCounter, #formSubmit, #formField { color: #2980B9; }
 .projectNav button:hover, .projectNav button:active, .projectNav button:focus { color: #bbbbbb; }
 .projectNavInactive, button.projectNavInactive, button.projectNavInactive:hover, button.projectNavInactive:active { color: #555555 !important; }
 p, li, .projectInfo p, .projectInfo li, blockquote, blockquote p, blockquote cite { color: #2c3e50; }
