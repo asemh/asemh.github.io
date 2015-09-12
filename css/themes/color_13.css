@@ -17,7 +17,7 @@ body { background-color: #ffffff; }
 nav ul li a, nav ul li a:visited, nav ul li button { color: #2980b9; }
 .currentPage, button.currentPage:hover { color: #555555 !important; }
 nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul li a:hover, nav ul li a:active, nav ul li a:focus, #heroNav a:hover, #heroNav a:visited:hover, #heroNav a:active, #heroNav a:focus, #formSubmit:hover, .contentModule a:hover, .contentModule a:visited:hover, .contentModule a:active, .contentModule a:focus { color: #ddd; }
-hr, .projectInfo h4, .projectNav, .projectInfo, .linedList, .projectInfo li, .projectInfo p:nth-last-child(2), .linedList li, nav, blockquote, #formField, #content #heroNav ul li, #footerLinks li, #heroNav, .contentModule, .eight:nth-child(4n) .contentModule:last-child, .eight:nth-of-type(1) .contentModule:last-child { border-color: #ddd; }
+hr, .projectInfo h4, .projectNav, .projectInfo, .linedList, .projectInfo li, .projectInfo p:nth-last-child(2), .linedList li, nav, blockquote, #formField, #content #heroNav ul li, #footerLinks li, #heroNav, .contentModule, .eight:nth-child(4n) .contentModule:last-child, .eight:nth-of-type(1) .contentModule:last-child { border-color: #fff; }
 #overview h3 { color: #34495e; }
 .projectThumbnailHover { background-color: #2980b9; opacity: 0.8; }
 .projectThumbnailHover h4 { color: #ffffff; }
@@ -32,14 +32,8 @@ p strong, .projectInfo strong, li strong { color: #2c3e50; }
 footer p { color: #dddddd; }
 footer a { color: #2980b9; }
 h1, h2, h3, h4, h5, h6, #faq p:first-child, .contentModule a, .contentModule a:visited { color: #2c3e50; }
-<<<<<<< HEAD
 #heroNav a, #heroNav a:visited { color: #2980b9; }
-a, a:visited { color: #2980b9; }
-a:hover, a:active, a:focus { color: #ddd; }
-=======
-#heroNav a, #heroNav a:visited { color: #f48372; }
-a, a:visited { color: #f48372; }
+a, a:visited { color: #2980B9; }
 a:hover, a:active, a:focus { color: #ffffff; }
->>>>>>> master
 #formField { background: #202020; }
 #formField:focus { background: #111111; }
