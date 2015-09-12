@@ -32,8 +32,8 @@ p strong, .projectInfo strong, li strong { color: #2c3e50; }
 footer p { color: #dddddd; }
 footer a { color: #2980b9; }
 h1, h2, h3, h4, h5, h6, #faq p:first-child, .contentModule a, .contentModule a:visited { color: #2c3e50; }
-#heroNav a, #heroNav a:visited { color: #f48372; }
-a, a:visited { color: #f48372; }
-a:hover, a:active, a:focus { color: #ffffff; }
+#heroNav a, #heroNav a:visited { color: #2980b9; }
+a, a:visited { color: #2980b9; }
+a:hover, a:active, a:focus { color: #ddd; }
 #formField { background: #202020; }
 #formField:focus { background: #111111; }
